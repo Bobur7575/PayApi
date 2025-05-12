@@ -1,0 +1,193 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+color: #36536B;
+}
+
+body {
+    background-color: #f5f7fa;
+    color: #333;
+}
+
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px;
+    background-color: #fff;
+    font-family:DM Serif Display;
+}
+
+.esames{
+position: relative;
+width: 218;
+height: 87;
+top: 313px;
+left: 951px;
+border-width: 1px;
+
+}
+
+.parent{
+font-family: Public Sans;
+color: #36536B;
+padding-left: 850px;
+gap: 41px;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.logo span {
+    color: #5b4eff;
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+}
+
+.demo-btn {
+    background-color: #BA4270;
+    color: #fff;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-weight: bold;
+    padding-left: 26.06px;
+    padding-right: 26.06px;
+}
+
+
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+}
+
+.hero-text h1 {
+    font-size: 48px;
+    max-width: 500px;
+    size: 72px;
+    line-height: -0.55px;
+    color: #36536B;
+    padding-left: 165px;
+}
+
+.hero-image img {
+    width: 300px;
+}
+
+.hero-image{
+width: 546px;
+height: 345px;
+top: 240px;
+left: 165px;
+}
+
+
+.features {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    align-items: center;
+}
+
+.code-snippet {
+    background-color: #2a2a2a;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    width: 40%;
+}
+
+.code-snippet pre {
+    font-size: 14px;
+}
+
+.feature-text {
+    width: 50%;
+}
+
+.feature-text h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.feature-text p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #666;
+}
+
+
+.services {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    text-align: center;
+    font-family: Public Sans;
+}
+
+.service img {
+    width: 50px;
+    margin-bottom: 20px;
+}
+
+.service h3 {
+    font-size: 20px;
+    font-family: Public Sans;
+}
+
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px;
+    background-color: #2a2a2a;
+    color: #fff;
+}
+
+.footer-logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.feature_text{
+    font-family: Public Sans;
+}
+
+.footer-logo span {
+    color: #5b4eff;
+}
+
+footer nav a {
+    color: #fff;
+    margin: 0 15px;
+}
+
+.parent1{
+    font-family: sans-serif;
+    color: #36536B;
+    justify-content: end;
+    font-weight: bold;
+    padding-right: 850px;
+    gap: 64px;
+
+}
+
+.social-icons img {
+    width: 24px;
+    margin: 0 10px;
+    font-family: Public Sans;
+}
